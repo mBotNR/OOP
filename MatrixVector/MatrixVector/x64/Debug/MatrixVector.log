@@ -1,0 +1,3 @@
+﻿  MatrixVector.cpp
+C:\Users\rohin\source\repos\MatrixVector\MatrixVector.cpp(81,24): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  MatrixVector.vcxproj -> C:\Users\rohin\source\repos\MatrixVector\x64\Debug\MatrixVector.exe
