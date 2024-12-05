@@ -1,0 +1,10 @@
+﻿  Market.cpp
+C:\Users\rohin\source\repos\Market\Market.cpp(100,9): warning C4984: "if constexpr" — расширение языка C++17
+      C:\Users\rohin\source\repos\Market\Market.cpp(99,10):
+      Сообщение диагностики возникло в созданной компилятором функции "void Store::display_info(void) const"
+  
+C:\Users\rohin\source\repos\Market\Market.cpp(105,14): warning C4984: "if constexpr" — расширение языка C++17
+      C:\Users\rohin\source\repos\Market\Market.cpp(99,10):
+      Сообщение диагностики возникло в созданной компилятором функции "void Store::display_info(void) const"
+  
+  Market.vcxproj -> C:\Users\rohin\source\repos\Market\x64\Debug\Market.exe
